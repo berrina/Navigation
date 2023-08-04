@@ -11,6 +11,12 @@
 		D746F8102A7436E0003001E4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F80F2A7436E0003001E4 /* ContentView.swift */; };
 		D746F8122A7436E1003001E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D746F8112A7436E1003001E4 /* Assets.xcassets */; };
 		D746F8152A7436E1003001E4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D746F8142A7436E1003001E4 /* Preview Assets.xcassets */; };
+		D746F81C2A743B9B003001E4 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F81B2A743B9B003001E4 /* SecondView.swift */; };
+		D746F81E2A743BC3003001E4 /* Second View .swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F81D2A743BC3003001E4 /* Second View .swift */; };
+		D746F8262A745129003001E4 /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F8252A745129003001E4 /* ThirdView.swift */; };
+		D746F8282A745231003001E4 /* Wrong.swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F8272A745231003001E4 /* Wrong.swift */; };
+		D746F82A2A74583C003001E4 /* FourthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F8292A74583C003001E4 /* FourthView.swift */; };
+		D746F82C2A745B18003001E4 /* Correct.swift in Sources */ = {isa = PBXBuildFile; fileRef = D746F82B2A745B18003001E4 /* Correct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		D746F80F2A7436E0003001E4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D746F8112A7436E1003001E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D746F8142A7436E1003001E4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D746F81B2A743B9B003001E4 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		D746F81D2A743BC3003001E4 /* Second View .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Second View .swift"; sourceTree = "<group>"; };
+		D746F8252A745129003001E4 /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
+		D746F8272A745231003001E4 /* Wrong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wrong.swift; sourceTree = "<group>"; };
+		D746F8292A74583C003001E4 /* FourthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthView.swift; sourceTree = "<group>"; };
+		D746F82B2A745B18003001E4 /* Correct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Correct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +65,12 @@
 			children = (
 				D746F80D2A7436E0003001E4 /* NavigationApp.swift */,
 				D746F80F2A7436E0003001E4 /* ContentView.swift */,
+				D746F81D2A743BC3003001E4 /* Second View .swift */,
+				D746F8272A745231003001E4 /* Wrong.swift */,
+				D746F8252A745129003001E4 /* ThirdView.swift */,
+				D746F8292A74583C003001E4 /* FourthView.swift */,
+				D746F82B2A745B18003001E4 /* Correct.swift */,
+				D746F81B2A743B9B003001E4 /* SecondView.swift */,
 				D746F8112A7436E1003001E4 /* Assets.xcassets */,
 				D746F8132A7436E1003001E4 /* Preview Content */,
 			);
@@ -137,7 +155,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D746F81E2A743BC3003001E4 /* Second View .swift in Sources */,
+				D746F81C2A743B9B003001E4 /* SecondView.swift in Sources */,
+				D746F82C2A745B18003001E4 /* Correct.swift in Sources */,
 				D746F8102A7436E0003001E4 /* ContentView.swift in Sources */,
+				D746F8282A745231003001E4 /* Wrong.swift in Sources */,
+				D746F82A2A74583C003001E4 /* FourthView.swift in Sources */,
+				D746F8262A745129003001E4 /* ThirdView.swift in Sources */,
 				D746F80E2A7436E0003001E4 /* NavigationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
